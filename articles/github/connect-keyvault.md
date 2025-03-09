@@ -162,7 +162,7 @@ jobs:
 
 ## Additional References
 
-- **[Federated Identity](~/_entra-docs/docs/external-id/what-is-b2b.md)**
-- **[Service Tags in Network Security Rules](~/_azure-docs/articles/virtual-network/service-tags-overview.md)**
+- **[Federated Identity](/entra/external-id/what-is-b2b)**
+- **[Service Tags in Network Security Rules](/azure/virtual-network/service-tags-overview)**
 - **[Sing-in with OpenID Connect](connect-from-azure-openid-connect.md)**
 - **[Sign in with a service principal and secret](connect-from-azure-secret.md)**
